@@ -1,9 +1,13 @@
-- 👋 Hi, I’m Reshum Zubair and an MBAN student at UBC and a supply chain professional with over 3 years of experience. 
-- 👀 I’m interested in data driven marketing, supply chain analytics and health care analytics 
-- 🌱 I’m currently learning Python, R and SQL along with soft skills like business communication, presentation of data. 
-- 💞️ I’m looking to collaborate on projects to analyse market data to derive meaningful insights 
-- 📫 You can reach me via email at zreshum@student.ubc.ca or call me on +16049770059
-- 😄 Pronouns: He/She/Hers 
+I am a Data Analyst & Business Analytics Professional with experience in data-driven decision-making, forecasting, and optimization. My background spans supply chain, finance, and strategy consulting, where I have leveraged Python, SQL, Tableau, and Power BI to extract insights, automate reporting, and drive business impact.
+
+I hold a Master of Business Analytics (MBAN) from the University of British Columbia (UBC) and a BSc in Management Science from Lahore University of Management Sciences (LUMS). My expertise includes machine learning, time series forecasting, data visualization, and process optimization.
+
+Technical Skills
+Programming & Data Analysis: Python (Pandas, NumPy, Scikit-learn), SQL (query optimization, relational databases), R, C++
+Big Data & Cloud Computing: Google Cloud Platform (GCP), AWS (data warehousing, EC2)
+Data Visualization & BI: Tableau (interactive dashboards, storytelling), Power BI, Excel (advanced functions, VBA)
+Machine Learning & Statistical Analysis: Predictive modeling, NLP, classification models, hypothesis testing
+Optimization & Forecasting: Linear programming, Monte Carlo simulation, ARIMA, time series forecasting
  
 
 <!---
